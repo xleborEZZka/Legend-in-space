@@ -1,0 +1,32 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    background-image: url(https://pic.xenomorph.ru/2013-06/1370179998_11.jpg);
+}
+
+h1{
+    text-align: center;
+    color: rgba(235, 235, 49, 0.623);
+    font-size: 30px;
+}
+.space{
+    width: 500px;
+    height: 350px;
+    border: darkslategray;
+    margin-left: 680px;
+}
+.link{
+    border: 1px solid darkslateblue;
+    padding: 10px 20px;
+    margin-left: 350px;
+    margin-top: 500px;
+    text-align: center;
+    color: rgb(170, 31, 31);
+    background-color: darkslateblue;
+    border-radius: 500px;
+    border-bottom: 50px;
+    text-decoration: none;
+    text-transform: lowercase;
+    position: absolute;
+    bottom: 70px;
+    right: 830px;
+}
